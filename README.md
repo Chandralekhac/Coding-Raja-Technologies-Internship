@@ -1,2 +1,2 @@
-# Coding Raja technologies
+# MobileBD
 I have developed a website using MySQL. My website can be seen ,visit the following link http://localhost/MobileDB
